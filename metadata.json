@@ -1,0 +1,6 @@
+{
+  "name": "Point of Sale (POS) Billing System",
+  "description": "A modern, production-style POS Billing System featuring product cataloging, billing, thermal ESC/POS receipt preview, comprehensive sales analytics charts, inventory stock-management, and offline backup-restore capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
